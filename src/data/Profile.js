@@ -1,7 +1,7 @@
 export const user = {
-  name: "Felipe Santos",
-  email: "felipesantos@dev.com",
-  phone: "1999999999",
+  name: "Manuela Queiroz",
+  email: "manuumqm@gmail.com",
+  phone: "(19) 98971-2259",
   address: {
     city: "Valinhos",
     state: "São Paulo",
